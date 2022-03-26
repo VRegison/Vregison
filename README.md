@@ -2,7 +2,8 @@ olá! eu sou o Vitor Regison 👋
 
 
 - 🔭 Hoje trabalho com front-end.
-- 🌱 estudando React e PHP.
+- 🌱 Acadêmico em ADS(Analise e desenvolvimento de sistemas).
+- 😉 buscando sempre melhorar.
 
 <div align="center">
   <a href="https://github.com/VRegison">
