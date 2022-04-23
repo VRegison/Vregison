@@ -1,7 +1,7 @@
 olá! eu sou o Vitor Regison 👋
 
 
-- 🔭 Hoje trabalho com front-end.
+- 🔭 Hoje trabalhando no front-end.
 - 🌱 Acadêmico em ADS(Analise e desenvolvimento de sistemas).
 - 😉 buscando sempre melhorar.
 
