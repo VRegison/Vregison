@@ -1,4 +1,4 @@
-olá! eu sou o Vitor Regison 👋
+Olá! eu sou o Vitor Regison 👋
 
 
 - 🔭 Hoje trabalhando no front-end.
