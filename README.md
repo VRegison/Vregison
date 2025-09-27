@@ -1,7 +1,7 @@
 Olá! eu sou o Vitor Regison 👋
 
 
-- 🔭 Atualmente um Full Stack.
+- 🔭 Full Stack.
 - 🌱 Acadêmico em ADS(Analise e desenvolvimento de sistemas).
 - 😉 buscando sempre melhorar.
 
